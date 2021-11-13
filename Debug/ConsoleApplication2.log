@@ -1,0 +1,11 @@
+﻿  Bullet.cpp
+  ConsoleApplication2.cpp
+D:\Users\Kappa\Visual studio projects\ConsoleApplication2\ConsoleApplication2.cpp(6,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Enemy.cpp
+D:\Users\Kappa\Visual studio projects\ConsoleApplication2\Enemy.cpp(16,41): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+  Game.cpp
+D:\Users\Kappa\Visual studio projects\ConsoleApplication2\Game.cpp(247,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Player.cpp
+  Создание кода...
+D:\Users\Kappa\Visual studio projects\ConsoleApplication2\Player.cpp(62): warning C4172: возвращение адреса локальной или временной переменной
+  ConsoleApplication2.vcxproj -> D:\Users\Kappa\Visual studio projects\ConsoleApplication2\Debug\ConsoleApplication2.exe
